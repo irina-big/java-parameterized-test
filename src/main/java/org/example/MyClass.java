@@ -16,5 +16,8 @@ public class MyClass {
     public int sumXY(){
         return xVar + yVar;
     }
+    public int multXY(){
+        return xVar*yVar;
+    }
 
 }

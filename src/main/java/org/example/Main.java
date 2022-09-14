@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         MyClass myClass = new MyClass (3,7);
         System.out.println("Сумма " + myClass.getxVar()+"+" + myClass.getyVar() + "=" + myClass.sumXY());
+        System.out.println("Произведение " + myClass.getxVar()+"*" + myClass.getyVar() + "=" + myClass.multXY());
+
     }
 }
